@@ -1,0 +1,16 @@
+[Settings]
+color=00
+Progs=1
+
+[Messages]
+Use=msg.dll
+
+[Driver]
+CDROM=drivers\cdromdriver.inf
+HDD=drivers\hdd.inf
+VGA=drivers\video.inf
+
+[Start]
+drivers\cdromletter.bat
+dsdos.bat
+welcome.bat

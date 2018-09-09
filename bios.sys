@@ -1,0 +1,10 @@
+[BIOSinf]
+Ver=4.0
+Man=Hrenoviy BIOS
+[Messages]
+Hrenoviy BIOS v.4.0
+(C) Hrenoten Inc.
+%PROCESSORDETECT%
+%MEMTEST%
+%BOOT%
+===================
